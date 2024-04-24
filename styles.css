@@ -1,0 +1,91 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0; 
+  background-color: rgba(193, 193, 193, 0.295);
+}
+
+.header {
+  background-color: #D2691E; /* Marrom claro */
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.header-logo {
+  width: 100px; /* Ajuste o tamanho conforme necessÃ¡rio */
+  height: auto;
+  margin-right: 20px; /* Adicione margem Ã  direita para separar o logotipo do tÃ­tulo */
+}
+
+.header-title {
+  margin: 0;
+  color: white;
+}
+
+main {
+  padding: 30px;
+}
+
+
+footer {
+  background-color: #D2691E; /* Marrom claro */
+  color: rgb(0, 0, 0);
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;}
+  .main-text {
+    font-size: 30px; /* Altere o valor conforme necessÃ¡rio */
+  }
+  .main-text2 {
+    font-size: 20px; /* Altere o valor conforme necessÃ¡rio */
+  }
+  
+a{
+color: black;
+}
+img{
+width: 150px;
+height: 120px;
+border-radius: 70%;
+}
+
+/* navbar */
+
+header {
+background-color: #FFA500;;
+padding: 10px;
+color: #FFF;
+text-align: center;
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+
+.logo img {
+  max-width: 200px;
+  margin-right: 10px; /* Adicionando margem Ã  direita para a logo */
+  }
+  
+
+nav ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+nav ul li {
+display: inline;
+margin-right: 20px;
+}
+
+nav ul li a {
+padding: 10px;
+color: #000000;
+text-decoration: none;
+border-radius: 10px;
+}
+
+

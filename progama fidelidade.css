@@ -1,0 +1,98 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #0000001b;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .header {
+    background-color:  #FFA500; /* Marrom característico do Burger King */
+    color: #fff;
+    padding: 10px 0;
+
+        display: flex;
+        align-items: center;
+      }
+  
+      .container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+      }
+      
+  
+  h1 {
+    text-align: center;
+    margin: 0;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #e71d36; /* Vermelho característico do Burger King */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #c71a31; /* Altera a cor quando o botão é hover */
+  }
+  img{
+    width: 150px;
+    height: 120px;
+    border-radius: 75%;
+    padding : 3%;
+    }
+
+        h1{color: #000000;
+            
+                text-align: center;
+                margin: 0;
+              }
+
+              
+              h1 {
+                margin: 0;
+              }
+              
+              .content {
+                background-color: #ffffff;
+                padding: 20px;
+                border-radius: 8px;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+              }
+              
+              h2 {
+                margin-top: 20px;
+              }
+              
+              ol {
+                padding-left: 20px;
+              }
+              
+              li {
+                margin-bottom: 10px;
+              }
+              
+              p {
+                margin-bottom: 20px;
+              }
+          
